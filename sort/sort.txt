@@ -1,0 +1,4 @@
+5 4 9 2 1
+
+ Ascending Order is : 1 2 4 5 9
+
